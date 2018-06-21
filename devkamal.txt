@@ -1,1 +1,3 @@
-this second hi coming from kamal
+this second hi coming from kama
+
+hi i am add readme file
